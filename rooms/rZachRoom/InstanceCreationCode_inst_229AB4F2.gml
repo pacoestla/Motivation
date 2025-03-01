@@ -1,0 +1,5 @@
+text[0]= "*Un bureau rempli"
+text[1]= "*Il y a un étrange livre au-dessus."
+text[2]= "«Comment faire une lettre de motivation originale?»"
+text[3]= "*Un élément est surligné-"
+text[4]= "«Jeu original»"

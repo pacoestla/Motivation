@@ -1,0 +1,1 @@
+oSoul.visible =false

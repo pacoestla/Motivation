@@ -1,0 +1,1 @@
+instance_create_depth(x+20, oSoul.y, -10, oBullet);
